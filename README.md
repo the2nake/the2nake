@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the2nake
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning OpenGL in C++
-- 💞️ I’m looking to collaborate on ... nothing so far.
+- 💞️ I’m looking to collaborate on [a holonomic motion library](https://github.com/the2nake/3818s-high-stakes)
 - 📫 How to reach me ... h o m e [d o t] 2 0 0 7 [a t] g m a i l [d o t] c o m
 
 <!---
